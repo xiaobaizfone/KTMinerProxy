@@ -25,8 +25,7 @@
     <h2>:zap: 原创GO语言编写，功能强大，性能强劲。</h2>
     <!-- <a href="https://kdocs.cn/l/slPG1q488Trc"><strong>帮助文档 »</strong></a> -->
     <a href="https://kdocs.cn/l/slPG1q488Trc"></a>
-    TG：<a href="https://t.me/+VK7ZOlKvcLljYjQ1">https://t.me/+VK7ZOlKvcLljYjQ1</a>
-    <h2>联系我们，免费定制， 加入自己的钱包。</h2>
+   
   </p>
 </div>
 
@@ -370,11 +369,6 @@ ___
 
 
 
-# 联系我们
-
-电报: [https://t.me/+VK7ZOlKvcLljYjQ1](https://t.me/+VK7ZOlKvcLljYjQ1)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 [contributors-shield]: https://img.shields.io/github/contributors/kt007007/KTMinerProxy.svg?style=for-the-badge
