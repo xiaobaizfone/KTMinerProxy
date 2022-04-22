@@ -4,7 +4,7 @@
 
 VERSION="2.0.1"
 
-DOWNLOAD_HOST="https://github.com/kt007007/KTMinerProxy/raw/main/Linux-64"
+DOWNLOAD_HOST="https://github.com/xiaobaizfone/KTMinerProxy/tree/main/Linux-64"
 
 PATH_KT="/root/ktmproxy"
 
