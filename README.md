@@ -296,7 +296,7 @@ bash <(curl -s -L https://github.com/xiaobaizfone/KTMinerProxy/blob/main/linux-i
 # Windows
 下载完后直接启动即可，程序自带进程守护
 
-<a href="https://github.com/kt007007/KTMinerProxy/tree/main/Windows-64">下载地址</a>
+<a href="https://github.com/xiaobaizfone/KTMinerProxy/tree/main/Windows-64">下载地址</a>
 
 
 <p id="question"></p>
